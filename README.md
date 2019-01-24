@@ -2,7 +2,7 @@
 * 将相应的仓库fork到自己的GitHub下
 * 将自己新读的论文添加到后面
 * 从自己修改好的仓库处点击Pull requests即可
-* 等待master仓库合并request
+* 等待master仓库审核并合并request
 
 # 格式规范
 
