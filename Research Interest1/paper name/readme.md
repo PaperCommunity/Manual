@@ -1,5 +1,5 @@
 # 相关链接
-  - **相关issues**: [issue链接](https://github.com/PaperCommunity/Manual/issues/1);每上传一篇文章，开一个对应的issue并赋链接到这里，方便讨论。issue第一个问题开点赞和踩两个表情，读者可评价这篇文章的可读性。(**issue需要先在master仓库下建立，再链接到这里**)
+  - **相关issues**: [issue链接](https://github.com/PaperCommunity/Manual/issues/1);每上传一篇文章，开一个对应的issue并赋链接到这里，方便讨论。issue标题为论文名称，第一个问题开点赞和踩两个表情，读者可评价这篇文章的可读性。(**issue需要先在master仓库下建立，再链接到这里**)
   - **原文链接**: 文章pdf出处
   - **博客链接**: 原作者的补充材料等
   - **论文解读链接**: 论文笔记等
